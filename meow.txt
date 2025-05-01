@@ -1,0 +1,17 @@
+cd D:/VITChennai/Ecommerce_Project/fabbrix_project/FABBRIX
+cd server
+npm run dev
+
+cd D:\VITChennai\Ecommerce_Project\fabbrix_project\FABBRIX
+cd client
+npm start
+
+python -m venv myenv
+myenv\Scripts\activate
+
+cd D:\VITChennai\Ecommerce_Project\fabbrix_project\ML_code\train
+python train_model.py
+
+cd ..
+cd update_DB
+python run_model_DB_updates.py

@@ -1,0 +1,2 @@
+DB Schema Diagram 
+https://drawsql.app/teams/vaishnavi-nimbalkar/diagrams/fabbrix-3

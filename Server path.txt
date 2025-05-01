@@ -1,0 +1,29 @@
+Server path 
+db
+service 
+controller
+route
+app.js
+create server in index.js using app.js
+
+Client 
+1.app.js 
+
+cart.service
+components -> cartitem.jsx
+cart.context
+pages -> cart
+
+product.service
+components -> product.jsx
+product.context
+pages -> product
+
+
+
+Crate training data:-
+TO create discount data
+
+Train model
+
+

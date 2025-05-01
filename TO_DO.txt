@@ -1,0 +1,3 @@
+go to server/docs/BasicInfo.js --> Update name
+
+update readme file in Fabbrix dir after uploading to git

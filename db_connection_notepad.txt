@@ -1,0 +1,21 @@
+# Postgres database local connection
+POSTGRES_USER=postgres
+# Postgres host (default: localhost)
+POSTGRES_HOST=localhost 
+POSTGRES_PASSWORD=vaish123
+POSTGRES_DB=fabbrix_db
+POSTGRES_DB_TEST=fabbrix_db
+POSTGRES_PORT=5432
+
+# Application Port - express server listens on this port (default 9000).
+PORT=9000
+
+# JWT access secret
+SECRET=secret
+
+# JWT refresh secret
+REFRESH_SECRET=refreshsecret
+
+# mail server settings
+SMTP_FROM=Vaishnavi.nimbakar26@gmail.com
+SMTP_USER=Vaishnavi.nimbakar26@gmail.com 
